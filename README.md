@@ -46,8 +46,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-https://www.w3schools.com/jsref/event_onclick.asp
-https://www.w3schools.com/tags/att_script_src.asp
+https://www.w3schools.com/jsref/event_onclick.asp / https://www.w3schools.com/tags/att_script_src.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 I encountered some challenges when creating this website. My event listener was not working based on the instructions provided in the CodePath Prework website, as well as implementing the Javascript functions to be recognized within the html file in order to, for example, use the buttons for their intended purpose. Specifically, the instructions regarding adding the "onclick" method within the headers for the button was not working until I added a script tag with the source being the scripts file. I searched up more information regarding how to use event listeners and having a html file recognize an external Javascript file, in which the links in the previous reflection question were the ones I utilized to get my website working. Although this is perhaps a small concern or mistake on my end, I ran into difficulty cleaning up and separating the code provided by Glitch with the instructions and code provided in the CodePath instructions, though I simply overcomed it by referencing the "what my code should look like" after vital steps. Also, when dealing with these challenges, I tested the program on Visual Studios Code, which I am more familiar with, just in case it was a Glitch problem or to better view errors perhaps.

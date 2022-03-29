@@ -46,16 +46,17 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[https://www.w3schools.com/jsref/event_onclick.asp and https://www.w3schools.com/tags/att_script_src.asp]
+https://www.w3schools.com/jsref/event_onclick.asp
+https://www.w3schools.com/tags/att_script_src.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+I encountered some challenges when creating this website. My event listener was not working based on the instructions provided in the CodePath Prework website, as well as implementing the Javascript functions to be recognized within the html file in order to, for example, use the buttons for their intended purpose. Specifically, the instructions regarding adding the "onclick" method within the headers for the button was not working until I added a script tag with the source being the scripts file. I searched up more information regarding how to use event listeners and having a html file recognize an external Javascript file, in which the links in the previous reflection question were the ones I utilized to get my website working. Although this is perhaps a small concern or mistake on my end, I ran into difficulty cleaning up and separating the code provided by Glitch with the instructions and code provided in the CodePath instructions, though I simply overcomed it by referencing the "what my code should look like" after vital steps. Also, when dealing with these challenges, I tested the program on Visual Studios Code, which I am more familiar with, just in case it was a Glitch problem or to better view errors perhaps.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+Although I have some prior yet small experience with web development, there is always more I can learn in order to master not just the fundamentals but the beauty that arises within the many things I could do within web development, and so only one question arises after completing my submission: being in the dark about many concepts, how would I be able to absorb much information or tips and tricks in learning how to be a better web developer other than jumping in and developing a website? Or is what I said precisely the best method to undergo?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had a few more hours to work on this project, I would tackle on not only the additional features, but beautifying it. CSS is definitely a thing to be played around with, though there are many styling changes that can be made within the style sheet language and so I would definitely make the website look as appealing as possible, perhaps implementing React as well to do so, although I am not extremely confident in my React skills. I would also look into SCSS since it has more advanced features I can play around with and explore too.
 
 
 
@@ -66,7 +67,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Nathan Nguyen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

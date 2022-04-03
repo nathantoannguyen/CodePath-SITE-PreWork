@@ -60,7 +60,7 @@ If I had a few more hours to work on this project, I would tackle on not only th
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://uci.zoom.us/rec/share/zby2jb9FNZvpinxDx_RQKz0YrHz4KSWq9O-uTTIoVCKEqwgJ-UIwbJhfRGF5gg.UdoUIrt7Xcihc_Hw)
 
 
 ## License
